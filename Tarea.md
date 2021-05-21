@@ -1,5 +1,7 @@
 # Tarea
-Hola soy Joan Gutierrez estudiante de la carrera de computacion en la ESPOL, inicie la carrera en el año 2019 y he aprendido mucho durante estos 2 años en esta univeridad
+
+### Presentacion:
+Hola soy Joan Gutierrez estudiante de la carrera de computacion en la ESPOL, inicie la carrera en el año 2019 y he aprendido mucho durante estos 2 años de estudios.
 
 ## Que he aprendido
 Yo estando en la carrera de Computacion en la Espol 
@@ -10,7 +12,7 @@ Yo estando en la carrera de Computacion en la Espol
 - Ademas que tengo conocimientos basicos de Linux
 
 ## Lo que aun me confunde
-Las cosas de las que no se del todo son y que espero que este curso me ensene es:
+Las cosas de las que no se del todo son y que espero que este curso me enseñe es:
 - Manejar sistemas a traves de comandos 
 - Crear programas de sistemas con el lenguaje C
 - Aprender a usar el lenguaje C
